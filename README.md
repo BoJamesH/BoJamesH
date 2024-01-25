@@ -1,13 +1,13 @@
 ### Hey! I'm Bo 👋
 
-I'm a software developer, designed, snowboarder, hiker, and good friend living in the San Francisco bay area.  I specialize in web development, specifically with JS, Python, React, and various backend frameworks.  I'm currently learning TypeScript.  Actively looking for work at the moment!
+I'm a software developer, designer, snowboarder and hiker living in the Bay Area.  I specialize in web development, specifically with JS, Python, React, and various backend frameworks.  Actively looking for work at the moment!
 
 #### LANGUAGES
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) (working on it, at least! ;))  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 #### FRAMEWORKS/LIBRARIES
 
