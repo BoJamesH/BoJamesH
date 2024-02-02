@@ -1,13 +1,14 @@
 ### Hey! I'm Bo 👋
 
-I'm a software engineer living in the Bay Area.  I specialize in web development, specifically JS, Python, React, and various backend frameworks.  Open to new job opportunities!
+I'm a software engineer living in the Bay Area.  I specialize in web development, specifically JS, Python, React, and various backend frameworks.  Currently working on a project for the planning commission of Vallejo. 
+Open to new job opportunities!
 
 Resume/Personal Site: [bojames.dev](https://bojames.dev/)
 
 Email me: RobertJamesH@gmail.com
 
 'Perhaps the most important principle for the good algorithm designer is to refuse to be content.'
-- Ullman, The Design and Analysist of Computer Algorithms [1974]
+- Ullman, The Design and Analysis of Computer Algorithms [1974]
 
 #### LANGUAGES
 
