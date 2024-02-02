@@ -2,7 +2,9 @@
 
 I'm a software engineer living in the Bay Area.  I specialize in web development, specifically JS, Python, React, and various backend frameworks.  Open to new job opportunities!
 
-RobertJamesH@gmail.com
+Resume/Personal Site: bojames.dev
+
+Email me: RobertJamesH@gmail.com
 
 #### LANGUAGES
 
