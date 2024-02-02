@@ -1,6 +1,8 @@
 ### Hey! I'm Bo 👋
 
-I'm a software developer, designer, snowboarder and hiker living in the Bay Area.  I specialize in web development, specifically with JS, Python, React, and various backend frameworks.  Actively looking for work at the moment!
+I'm a software developer, designer, snowboarder and hiker living in the Bay Area.  I specialize in web development, specifically with JS, Python, React, and various backend frameworks.  Open to new job opportunities!
+
+RobertJamesH@gmail.com
 
 #### LANGUAGES
 
