@@ -6,6 +6,9 @@ Resume/Personal Site: [bojames.dev](https://bojames.dev/)
 
 Email me: RobertJamesH@gmail.com
 
+'Perhaps the most important principle for the good algorithm designer is to refuse to be content.'
+- Ullman, The Design and Analysist of Computer Algorithms [1974]
+
 #### LANGUAGES
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
