@@ -1,6 +1,6 @@
 ### Hey! I'm Bo 👋
 
-I'm a software engineer living in the Bay Area.  I specialize in web development, specifically JS, Python, React, and various backend frameworks.  Currently working on a project for the Planning Commission of the City of Vallejo. Open to new job opportunities!
+I'm a software engineer living in the Bay Area.  I specialize in web development, specifically JS, Python, React, and various backend frameworks.  Open to new job opportunities.
 
 Resume/Personal Site: [bojames.dev](https://bojames.dev/)
 
